@@ -1,3 +1,17 @@
 @import "tailwindcss";
 
 /* #02A2F7 */
+
+::-webkit-scrollbar{
+    width: 7px;
+    display: none;
+}
+/* ::-webkit-scrollbar-thumb{
+    background-color: rgb(211, 210, 210);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background-color: #02A2F7;
+    border-radius: 10px;
+} */
